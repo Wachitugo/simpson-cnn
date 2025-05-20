@@ -1,0 +1,9 @@
+tensorflow>=2.8.0
+numpy
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+pillow
+gradio
+moviepy
